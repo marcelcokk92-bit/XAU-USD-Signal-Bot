@@ -7,9 +7,9 @@ import pytz
 # ============================================
 # CONFIGURATION
 # ============================================
-TELEGRAM_TOKEN     = os.environ.get("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID")
-TWELVEDATA_API_KEY = os.environ.get("TWELVEDATA_API_KEY")
+TELEGRAM_TOKEN     = os.environ.get("8871037519:AAH7o9nPSjZX-eQMYSm0eJvxKhWkju6Ge1g")
+TELEGRAM_CHAT_ID   = os.environ.get("8811473228")
+TWELVEDATA_API_KEY = os.environ.get("7fcc92a90c3ec8d3a4e9f61a607bdf1d")
 
 SYMBOL       = "XAU/USD"
 CAPITAL      = 200
